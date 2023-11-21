@@ -1,4 +1,4 @@
-# Visualization of Recursive Algorithms using ASCII Art
+# Visualization of Recursive Functions' Call Stack using ASCII Art
 
 ## Get max value in an array
 
